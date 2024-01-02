@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has been archived in favour of the Blueprint grammar in [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter).**
+
+---
+
 # vim-blueprint-syntax
 
 A Vim plugin that provides syntax highlighting for GTK Blueprint files.
